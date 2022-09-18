@@ -1,0 +1,5 @@
+rootProject.name = 'Labwork7Gradle'
+include 'server'
+include 'client'
+include 'general'
+
