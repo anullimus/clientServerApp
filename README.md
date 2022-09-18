@@ -1,13 +1,13 @@
 
 # Client-server app
-Client-server application on Java
+*Client-server application on Java
 
 ## Information
-• Implemented a console application that manages data interactively.
-• The application is divided into client and server parts.
-• Implemented data conversion from JSON and validation on the client with sending ready-made instances to the server and to database (PostgreSQL) for execution.
-• User system implemented.
-• Programming patterns are implemented (Singleton, Iterator, Commands, Decorator).
+* Implemented a console application that manages data interactively.
+* The application is divided into client and server parts.
+* Implemented data conversion from JSON and validation on the client with sending ready-made instances to the server and to database (PostgreSQL) for execution.
+* User system implemented.
+* Programming patterns are implemented (Singleton, Iterator, Commands, Decorator).
 
 ## Requirements
 * Python 3.6+
