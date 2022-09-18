@@ -1,6 +1,6 @@
 
 # Client-server app
-*Client-server application on Java
+*Client-server application on Java*
 
 ## Information
 * Implemented a console application that manages data interactively.
