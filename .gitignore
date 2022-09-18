@@ -1,0 +1,6 @@
+.idea/
+.gradle/
+gradle/wrapper/
+build/
+out/
+lab5WithoutGradle/
